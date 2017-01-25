@@ -1,15 +1,1 @@
-Txt in text in text
-YOU HAVE SUCCESFULLY SEEN 12 WORDS NOW!
-Wait.. this is a text file. That wasn't special enough.
-You L I A R
-You are truly slothful
-
-if death is 0
-0 = death
-
-elif isaac you don't accept this
-isaac = death
-
-death = 0
-sanic=100;
-isaac = 0
+This is a test, as I am now given full access to this project.
